@@ -1,0 +1,7 @@
+tipo,id,titulo,estado,etiquetas
+Historia,HU-01,"Registrar movimientos de stock",En Progreso,"historia-de-usuario"
+Historia,HU-02,"Recibir alertas de reposición con orden de compra sugerida",Por Hacer,"historia-de-usuario"
+Historia,HU-03,"Consultar indicadores de inventario",Por Hacer,"historia-de-usuario"
+Tarea,T-01,"Modelar el proceso de reposición de stock en BPMN",Listo,"documentacion"
+Tarea,T-02,"Redactar README con declaración de uso de IA",Listo,"documentacion"
+Tarea,T-03,"Definir indicadores de control y estándares",Listo,"documentacion"
