@@ -69,6 +69,10 @@ Las Entregas N.º 1, 2 y 3 son de autoría propia. Para esta Entrega N.º 4 se u
 3. Redactar borradores de las Historias de Usuario, de los indicadores de control y de este README, que fueron revisados y ajustados por el autor.
 4. Asistir con instrucciones para usar GitHub Desktop y para obtener las capturas de evidencia, que ejecutó el autor.
 
+En términos generales, se usó como asistente para optimizar el trabajo y detectar posibles equivocaciones humanas, por ejemplo en los mensajes de commit, en las ramas elegidas y en el orden de los pasos y procesos.
+
+**Ejemplo de referencia:** para el proceso y el modelo de datos se tomó como ejemplo AirOS, un sistema de gestión de autoría propia que funciona actualmente en varias empresas. El sistema opera por detrás de su sitio web público, que puede verse en funcionamiento en [www.airos.com.ar](https://www.airos.com.ar).
+
 **Prompts utilizados y justificación crítica:**
 
 | Prompt (resumen) | Por qué se usó |
